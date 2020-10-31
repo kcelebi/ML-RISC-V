@@ -47,9 +47,9 @@ Note that `example.bmp` is a file that you can use to try things out.
 
 If you don't feel like making your own .bmp files, you can find binary files of inputs in the `tests/inputs/bin/inputs` folder, along with their corresponding labels in `tests/inputs/txt/labels`. To run an input, pick one of the 9 examples index from 0 - 8. You will see an output telling you what label to expect and what the network output is. Here's an example of running example 0:
 
-`./run.sh 0`
-`Running your example: 0`
-`This should output the number:`
-`6`
-`Running the network`
-`6`
+```./run.sh 0
+Running your example: 0
+This should output the number:
+6
+Running the network
+6```
