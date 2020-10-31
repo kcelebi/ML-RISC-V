@@ -1,6 +1,6 @@
 # ML-RISC-V
 
-This project is a simple neural network written in Assembly code that interprets the value of hand-written 1-digit numbers. It is a simple ANN that uses pre-trained matrices and ReLU to classify digits.   
+This project is a simple neural network written in Assembly code that interprets the value of hand-written 1-digit numbers. It is a simple ANN that uses pre-trained matrices and ReLU to classify digits. Feel free to jump to [Running your own tests](https://github.com/kcelebi/ML-RISC-V/blob/main/README.md#running-your-own-inputs)
 
 # Project Structure
 
