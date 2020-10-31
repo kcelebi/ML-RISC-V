@@ -52,4 +52,5 @@ Running your example: 0
 This should output the number:
 6
 Running the network
-6```
+6
+```
