@@ -42,3 +42,7 @@ The handwritten values are produced as .bmp files which can be made with any sor
 `./your_input.sh tests/inputs/example`
 
 Note that `example.bmp` is a file that you can use to try things out.
+
+## Running given inputs
+
+If you don't feel like making your own .bmp files, you can find binary files of inputs in the `tests/inputs/bin/inputs` folder, along with their corresponding labels in `tests/inputs/txt/labels`. 
