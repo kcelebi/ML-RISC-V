@@ -2,6 +2,8 @@
 
 This project is a simple neural network written in Assembly code that interprets the value of hand-written 1-digit numbers. It is a simple ANN that uses pre-trained matrices and ReLU to classify digits. Feel free to jump to [Running your own tests](https://github.com/kcelebi/ML-RISC-V/blob/main/README.md#running-your-own-inputs)
 
+<img width="273" alt="Screen Shot 2020-10-31 at 7 54 17 PM" src="https://user-images.githubusercontent.com/35543500/111095187-4eed9d00-8513-11eb-9251-635ae53cfe63.png">
+
 # Project Structure
 
 This code works by looking at a pixel array of a hand written number, converting that to a binary representation, then letting the assembly code do its work. There are two pre-trained matrices (`m0.bin` and `m1.bin`) in the `tests/inputs/bin` folder that are used in the network to interpret the hand-written digit. The main folders to examine are:
